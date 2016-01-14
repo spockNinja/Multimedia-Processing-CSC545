@@ -1,3 +1,4 @@
+int x = 40, y = 40;
 int w = 50, h = 50;
 int speed = 5;
 
